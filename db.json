@@ -2,6 +2,6 @@
   "vrcUser": [
     { "id": 1, "name": "Kai Bloodtalon", "score": [{"value":"99999", "date": "01/01/2023"},{"value":"39210", "date": "01/01/2023"},{"value":"33902", "date": "01/01/2023"}] },
     { "id": 2, "name": "Cloudraven", "score": [{"value":"99999", "date": "01/01/2023"},{"value":"29565", "date": "01/01/2023"},{"value":"78535", "date": "01/01/2023"}] },
-    { "id": 3, "name": "SkunkShampoo", "score": [{"value":"99999", "date": "01/01/2023"},{"value":"53535", "date": "01/01/2023"},{"value":"99642", "date": "01/01/2023"}] },
+    { "id": 3, "name": "SkunkShampoo", "score": [{"value":"99999", "date": "01/01/2023"},{"value":"53535", "date": "01/01/2023"},{"value":"99642", "date": "01/01/2023"}] }
   ]  
 }
